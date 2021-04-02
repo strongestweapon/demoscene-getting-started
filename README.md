@@ -1,7 +1,7 @@
-# Demoscene Getting Started with Revision 2021
-## 데모씬이란
+# 데모씬 시작하기 with Revision 2021
+## 데모씬
 
-## Revision 2021 데모씬 경쟁Demoscene Compo 카테고리
+## Revision 2021 데모씬 경쟁 Demoscene Compo 카테고리
 - PC
   - Demo: Win, Linux, Mac, Browser
   - Intro: 64K, 8K, 4K, 256Byte
@@ -34,7 +34,7 @@
   - Wild
   - ASCII / ANSI / PETSCII
 
-## 데모씬 역할별 도구(Tool)
+## 데모씬 도구(Tool)
 - 그래픽
 - 오디오
 - 코딩
