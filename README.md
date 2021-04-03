@@ -47,7 +47,7 @@ commodore 64, amiga 등의 게임이 시작될때 나오는 intro에 자기의 �
 - Demozoo
 - Wanted!
 ## 사이트 가입하기
-- Scene ID
+- [Scene ID](https://id.scene.org/register/)
 ## 참고 자료
 - [github.com/psenough/teach_yourself_demoscene_in_14_days](https://github.com/psenough/teach_yourself_demoscene_in_14_days)
 - [revision 2021 rules and competitions](https://2021.revision-party.net/competitions/pc-competitions)
