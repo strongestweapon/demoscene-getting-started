@@ -11,10 +11,10 @@ commodore 64, amiga 등의 게임이 시작될때 나오는 intro에 자기의 �
 <br />
 데모씬의 사람들은 새로운 창작 표현을 위해서 컴퓨터가 어떻게 동작하지는지 그 누구보다 잘 이해하려한다. 기계어 레벨, CPU,마이크로프로세서, 그래픽 카드의 반도체 레벨까지 이해하여 프로그램하고 디자인하며 표현한다.
 
-## Revision 2021 데모씬 경쟁 Demoscene Compo 카테고리 [link](https://2021.revision-party.net/competitions/pc-competitions)
+## Revision 2021 데모씬 경쟁 Demoscene Compo 카테고리 
 Intro (코드 사이즈 제한)와 Demo(특정 플랫폼 이해가 초점)가 과거 데모씬의 주 카테고리였으나 지금은 훨씬더 다양한 카테고리가 있으며 Wild 와 같은 카테고리 처럼 자유 분야가 있기도 하다.  
 
-Pouet과 같은 데모씬의 유명한 커뮤니티에서 각 카테고리에 대한 정보를 찾기에는 너무나 힘든일이기에 Revsion 과 같은 데모씬 파티의 경쟁 부분과 그 rule를 살펴보는것이 가장 쉽게 데모씬의 여러분야를 살펴볼수 있는 방법이라 생각된다.
+Pouet과 같은 데모씬의 유명한 커뮤니티에서 각 카테고리에 대한 정보를 찾기에는 너무나 힘든일이기에 Revsion 과 같은 데모씬 파티의 경쟁 부분과 그 rule를 살펴보는것이 가장 쉽게 데모씬의 여러분야를 살펴볼수 있는 방법이라 생각된다. [link](https://2021.revision-party.net/competitions/pc-competitions)
 
 - PC
   - Demo: Win, Linux, Mac, Browser
