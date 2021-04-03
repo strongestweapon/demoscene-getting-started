@@ -1,13 +1,9 @@
 # 데모씬 시작하기 with Revision 2021
 ## 데모씬
-
-<p align="center">
-  <figure align="center">
+  <figure >
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Assembly2004-areena01.jpg" width=70% height=70%>
-    <figcaption align="center">Assembly 2004, Wikipedia</figcaption>
+    <figcaption >Assembly 2004, Wikipedia</figcaption>
   </figure>
-</p>
-
 <br><br>
 commodore 64, amiga 등의 게임이 시작될때 나오는 intro에 자기의 이름을 새겨 넣거나 절대 불가능할것은 그래픽을 넣는 식으로 과시하다 게임 플레이보다 이렇게 다시만들어진 intro만 보는 사람들이 늘어 나게됨. 이거이 데모씬의 시작이라고 보는 사람들이 많다. <br />
 <br />
